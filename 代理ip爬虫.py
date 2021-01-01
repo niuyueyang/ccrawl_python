@@ -10,6 +10,16 @@
 # print(p.text)
 #
 
+# 爬虫案例链接
+# https://www.jb51.net/article/196223.htm
+# https://www.cnblogs.com/Summer-skr--blog/p/11474095.html
+# https://www.jb51.net/article/192705.htm
+# https://blog.csdn.net/weixin_45051787/article/details/104300002
+# https://blog.csdn.net/weixin_40208575/article/details/81784025?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-7&spm=1001.2101.3001.4242
+
+# scrapy代理ip爬虫
+# https://www.cnblogs.com/ArtisticMonk/p/9738921.html
+
 import requests
 import pymysql
 conn = pymysql.connect(host='数据库ip', user='用户名', passwd='密码', db='数据库名称', charset='utf8')
